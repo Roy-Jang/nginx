@@ -1,2 +1,2 @@
 # nginx
-nginx 서버 구축
+nginx 개발환경구축
